@@ -1,4 +1,4 @@
-# Sneha Ramteke - Portfolio
+# My Portfolio
 
 A modern, responsive portfolio website built with **Next.js 16**, **TypeScript**, and **Tailwind CSS 4**.
 
